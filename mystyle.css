@@ -1,4 +1,10 @@
 body{background-color: #141b23;
 margin:100px; padding:50x;}
-#header {weight:200px;height:100px; display:block; position:; color:white;}
-p {font-family:Franklin Gotic Medium; font-size:6 pt; weight:200px;height:100px;}
+li {display:inline;}
+h1 {font-family:Franklin Gotic Medium;font-size:14pt;color:white;}
+#header {weight:200px;height:100px; display:block; position:; color:white; position:relative;}
+#maintext {font-family:impact; font-size:6 pt; color:white;}
+
+
+img {border-color:#141b23; border-left:1px;}
+#moon{position:right;}
